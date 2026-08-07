@@ -1,0 +1,14 @@
+pandas>=2.3.2
+numpy>=2.3.0
+scikit-learn>=1.7.0
+xgboost>=3.0.0
+mlflow>=3.2.0
+dvc>=3.63.0
+fastapi>=0.116.0
+uvicorn>=0.35.0
+pydantic>=2.11.0
+evidently>=0.7.14
+requests>=2.32.0
+joblib>=1.5.0
+python-dotenv>=1.1.0
+pytest>=8.4.0
