@@ -1,0 +1,5 @@
+outs:
+- md5: 83293993430ef038f2b5210e17915e9f
+  size: 321803771
+  hash: md5
+  path: trips_clean.csv
