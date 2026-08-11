@@ -1,0 +1,23 @@
+artifact_path: file:C:/Users/Snehlata/OneDrive/Documents/GitHub/ml-eta-prediction-miniproject/mlruns/1/models/m-8778a5742e5e4ec4a50d20586ce3f062/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.skops
+    predict_fn: predict
+    python_version: 3.14.3
+  sklearn:
+    code: null
+    pickled_model: model.skops
+    serialization_format: skops
+    sklearn_version: 1.9.0
+    skops_trusted_types: null
+mlflow_version: 3.15.1
+model_id: m-8778a5742e5e4ec4a50d20586ce3f062
+model_size_bytes: 6442
+model_uuid: m-8778a5742e5e4ec4a50d20586ce3f062
+prompts: null
+run_id: ae272bbb46774cf982be8699dbae2111
+utc_time_created: '2026-08-11 09:51:21.905565'
